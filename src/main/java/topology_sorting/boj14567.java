@@ -3,7 +3,18 @@ package topology_sorting;
 import java.util.*;
 
 public class boj14567 {
-    static ArrayList<Integer>[] graph;
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int m = sc.nextInt();
+
+
+    }
+
+}
+
+/*
+static ArrayList<Integer>[] graph;
     static int[] counts;
 
     public static void main(String[] args){
@@ -48,4 +59,4 @@ public class boj14567 {
             System.out.print(res[i] + " ");
         }
     }
-}
+ */
